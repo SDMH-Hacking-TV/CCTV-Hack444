@@ -8,19 +8,10 @@ just for educational perpose.
 you doing cramming ,your responsiblity.
 ```
 
-apt-get install python3
-apt-get install git
-git clone https://github.com/SDMH-Hacking-TV/CCTV-Hack444
-cd webhack444
-pip3 install requests
-python3 WebHack.py
-```
-
 Done!
 To start you need write command: `python3 webhack.py`
 
 *Thanks for downloading and using this program I'm really happy :)*
-
 
 
 
