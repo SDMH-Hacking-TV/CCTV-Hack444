@@ -15,8 +15,6 @@ pip3 install requests
 python3 Webhack.py
 NOTE:Done; to start you need wright command
 python3 webhack.py
-```
-
 Help for
 *Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
 
