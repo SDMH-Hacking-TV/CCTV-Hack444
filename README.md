@@ -8,16 +8,22 @@ just for educational perpose.
 you doing cramming ,your responsiblity.
 ```
 
-Done!
-To start you need write command: `python3 webhack.py`
+CCTV-Hack/Webhack
 
-*Thanks for downloading and using this program I'm really happy :)*
+apt-get install python3
+apt-get install git
+git clone https://github.com/SDMH-Hacking-TV/CCTV-Hack444.git
+cd Webhack444
+pip3 install requests
+python3 Webhack.py
+
+NOTE:Done; to start you need wright command
+
+python3 webhack.py
+
+Help for
 
 
+https://web.facebook.com/groups/termux.help.bd
 
-
-
-*Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
-
-*Subscribe to [ Channel on YouTube](https://www.youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw)!*
-
+https://www.youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw
