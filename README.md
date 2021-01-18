@@ -6,7 +6,8 @@ atfast you connect vpn then attack any website.
 just for educational perpose.
 you doing cramming ,your responsiblity.
 ```
-CCTV-Hack/Webhack
+#CCTV-Hack/Webhack
+```
 $ apt-get install python3
 $ apt-get install git
 $ git clone https://github.com/SDMH-Hacking-TV/CCTV-Hack444.git
